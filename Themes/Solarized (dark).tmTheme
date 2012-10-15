@@ -1319,6 +1319,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>diff</string>
+			<key>scope</key>
+			<string>source.diff</string>
+			<key>settings</key>
+			<dict>
+				<key>selection</key>
+				<string>#EEE8D5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>diff: header</string>
 			<key>scope</key>
 			<string>meta.diff, meta.diff.header</string>
