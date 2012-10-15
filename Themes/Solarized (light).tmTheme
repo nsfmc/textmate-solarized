@@ -1379,6 +1379,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Markdown: Bold</string>
+			<key>scope</key>
+			<string>markup.bold.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#002b36</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>reST raw</string>
 			<key>scope</key>
 			<string>text.restructuredtext markup.raw</string>
