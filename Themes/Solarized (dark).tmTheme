@@ -1340,7 +1340,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#EAE3CA</string>
+				<string>#073642</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
