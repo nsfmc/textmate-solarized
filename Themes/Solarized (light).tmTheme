@@ -1994,6 +1994,17 @@
 				<string>#6a8187</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>trailing whitespace</string>
+			<key>scope</key>
+			<string>invalid.illegal.whitespace.trailing, invalid.illegal.whitespace.mixed</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#b58900</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>38E819D9-AE02-452F-9231-ECC3B204AFD7</string>
