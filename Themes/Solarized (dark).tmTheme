@@ -1366,11 +1366,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#EAE3CA</string>
+				<string>#073642</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BF3904</string>
+				<string>#B58900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1381,7 +1381,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#EAE3CA</string>
+				<string>#073642</string>
 				<key>foreground</key>
 				<string>#219186</string>
 			</dict>
