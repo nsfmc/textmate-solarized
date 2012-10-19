@@ -1954,10 +1954,8 @@
 			<string>markup.bold.markdown</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
-				<string>#839496</string>
+				<string>#EEE8D5</string>
 			</dict>
 		</dict>
 		<dict>
