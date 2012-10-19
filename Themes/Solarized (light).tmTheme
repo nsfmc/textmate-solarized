@@ -1297,17 +1297,54 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>diff: header</string>
+			<string>diff</string>
 			<key>scope</key>
-			<string>meta.diff, meta.diff.header</string>
+			<string>source.diff</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#A57706</string>
+				<string>#FDF6E3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>diff: header</string>
+			<key>scope</key>
+			<string>meta.diff.header</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FDF6E3</string>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#E0EDDD</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>diff: header</string>
+			<key>scope</key>
+			<string>meta.diff.header.from-file</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#DC322F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>diff: header</string>
+			<key>scope</key>
+			<string>meta.diff.header.to-file</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#859900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1318,11 +1355,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#EAE3CA</string>
+				<string>#FDF6E3</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D3201F</string>
+				<string>#DC322F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1333,11 +1370,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#EAE3CA</string>
+				<string>#FDF6E3</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BF3904</string>
+				<string>#cb4b16</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1348,9 +1385,24 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#EAE3CA</string>
+				<string>#FDF6E3</string>
 				<key>foreground</key>
-				<string>#219186</string>
+				<string>#859900</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>diff: range</string>
+			<key>scope</key>
+			<string>meta.diff.range.unified</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FDF6E3</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#2AA198</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1996,7 +2048,6 @@
 				<string>#839496</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
 			<string>Markdown: Link Title</string>
